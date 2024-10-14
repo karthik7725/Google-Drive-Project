@@ -1,0 +1,14 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.4",
+    "prettier": "^3.3.3"
+  },
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "solc": "^0.8.27"
+  }
+}
