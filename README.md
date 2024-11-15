@@ -1,5 +1,5 @@
 Tech stack used - 
-Backend - Hardhat Local Blockchain , IPFS Pinata , Metamask , Solidity
+Backend - Hardhat Local Blockchain , IPFS Pinata , Metamask , Solidity <br/>
 Frontend - React , Tailwind CSS , ShadCN UI Library , Ether.js 
 
 For live video demonstration click here 👉 https://www.youtube.com/watch?v=L0-TJQZ8ATI&ab_channel=KarthikT
