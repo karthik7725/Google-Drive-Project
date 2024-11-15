@@ -1,4 +1,4 @@
-Tech stack used - 
+<b>Tech stack used - </b> <br/>
 Backend - Hardhat Local Blockchain , IPFS Pinata , Metamask , Solidity <br/>
 Frontend - React , Tailwind CSS , ShadCN UI Library , Ether.js 
 
